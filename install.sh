@@ -1,7 +1,9 @@
 clear
 echo Instalando paquetes ...
 echo
+sleep 2
 echo Instalando python ...
+sleep 1
 pkg install python
 clear
 echo python Instalado.
