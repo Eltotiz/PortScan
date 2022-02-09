@@ -20,7 +20,7 @@ print()
 print("Añadirle Nombre al archivo donde se guardara los puertos abiertos.")
 print()
 archivo=input("[+] Inserte nombre al archivo ==> ")
-f = open(f"/$HOME/PortScan/ports/{archivo}.txt", "w")
+f = open(f"/data/data/com.termux/files/home/PortScan/ports/{archivo}.txt", "w")
 
 print()
 print("Archivo creado.")
