@@ -63,6 +63,6 @@ f.close()
 
 print()
 print()
-print(Fore.BLUE + f"[+] Puertos abiertos guardados en {archivo}.txt en la carpeta ports")
+print(Fore.BLUE + f"[+] Puertos abiertos guardados en {archivo}.txt en la carpeta puertos")
 print()
 print("==============================")
